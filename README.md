@@ -59,3 +59,22 @@ For queries or corrections, please email: chahat[at]terpmail[dot]umd[dot]edu
 
 ## Further Reading
 Refer to the project report for an in-depth analysis of the results and comparisons with other SfM implementations.
+
+##Results
+  Inlier Outlier rejection: 
+  ![image](https://github.com/user-attachments/assets/15e28c93-cf8c-499f-83da-4d9550953a1e)
+
+  Linear and Non Linear Triangulation: 
+  ![image](https://github.com/user-attachments/assets/6bfe0bc1-c0cf-4f88-b9d8-862fc3d3ceb3)
+  
+  ![image](https://github.com/user-attachments/assets/874b5c05-4720-409f-9bf4-ed93c76fb5dc)
+
+  2D Plot of Linear and Non Linear: 
+  ![image](https://github.com/user-attachments/assets/0f83c004-c9df-4338-b6a7-cbbfb8b2997e)
+  ![image](https://github.com/user-attachments/assets/1c940e09-bb74-4b63-a25b-8c21aa213f09)
+
+  Visualization after bundle adjustment: 
+  ![image](https://github.com/user-attachments/assets/e9ca70ad-bac9-42af-9a0e-3493ecac2cf7)
+
+
+
