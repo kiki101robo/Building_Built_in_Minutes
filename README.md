@@ -7,10 +7,6 @@ The detailed explanation of this project is available in the PDF: [Group_15___Bu
 ### Project Overview
 This project leverages Structure from Motion (SfM) techniques to reconstruct a 3D scene from multiple 2D images. It involves estimating camera poses and creating a 3D structure using a series of advanced computer vision algorithms.
 
-#### Author
-Chahat Deep Singh  
-For queries or corrections, please email: chahat[at]terpmail[dot]umd[dot]edu
-
 ### Methodology
 
 #### Feature Matching
